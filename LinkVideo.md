@@ -1,6 +1,5 @@
 # ProyectoCOVID
 
-Link del video: https://youtu.be/La6R5LP_0DE
 
 Poyecto desarrollado por:
 
